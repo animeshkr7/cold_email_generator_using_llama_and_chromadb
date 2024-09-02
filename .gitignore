@@ -1,0 +1,5 @@
+.env
+/app/.env
+turtorail-groq.ipynb
+tutorial_chromadb.ipynb
+myenv
