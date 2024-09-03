@@ -3,7 +3,9 @@
 Setting up the environment :
 
 `` python -m venv myenv
+
 `` myenv/sripts/activate
+
 `` pip install -r requirements.txt
 
 
@@ -18,3 +20,8 @@ APPORACH :
 2) converitng it into json format (using llm)
 3) storing the relevent manpower portfolio in chromadb
 4) Prompting llm to generate the mail by passing the json job requirements and chromadb db 
+
+
+Live Link ( delay of 50 second due to inactivity) :
+     
+      https://cold-email-generator-using-llama-and.onrender.com/
